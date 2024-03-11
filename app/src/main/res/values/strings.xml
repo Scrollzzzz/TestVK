@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Test VK</string>
+    <string name="search">Search</string>
+    <string name="loading_error">Loading error</string>
+    <string name="loading_error_long">Loading error. Check your network connection and try again.</string>
+    <string name="clear">Clear</string>
+    <string name="back">Back</string>
+    <string name="try_again">Try again</string>
+
+</resources>
